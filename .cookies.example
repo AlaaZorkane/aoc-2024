@@ -1,3 +1,2 @@
-# Domain            Tailmatch   Path  Secure  Expiry      Name          Value
-.adventofcode.com   TRUE        /     TRUE    0           ru            1234567890abcdef
-.adventofcode.com   TRUE        /     TRUE    0           session       myid
+ru=RU_HERE;session=SESSION_HERE
+
